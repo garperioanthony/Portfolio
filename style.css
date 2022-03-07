@@ -76,7 +76,7 @@ ABOUT
 }
 
 #about .icons a {
-        color: rgb(0, 0, 0);
+        color: #000;
 }
 
 
@@ -87,8 +87,8 @@ PROJECT
 ***********************************/
 
 #project{
-    margin: 60px auto;
-    width: 80%
+    margin: 150px auto;
+    width: 90%
 }
 
 #project h2{
@@ -96,7 +96,7 @@ PROJECT
 }
 
 #project .card img{
-    width: 100%;
+    width: 110%;
 }
 
 #project .card-title{
