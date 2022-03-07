@@ -46,6 +46,7 @@ ABOUT
         border-radius: 50%;
         width: 120px;
         margin-bottom: 10px; 
+        height: 15vh;
 }
 
 #about .name {
@@ -101,4 +102,7 @@ PROJECT
 
 #project .card-title{
     font-weight: bold;
-}
+}  
+img.netfliximg{
+    width:100%;
+} 
